@@ -1,5 +1,7 @@
 # JavaScript Calculator
 
+You can see my project preview here - https://calculatorcreatewithjs.netlify.app/
+
 A sleek, responsive web-based calculator built with vanilla JavaScript, HTML5, and CSS3. This calculator provides basic arithmetic operations with a modern dark-themed interface.
 
 ## 🚀 Features
